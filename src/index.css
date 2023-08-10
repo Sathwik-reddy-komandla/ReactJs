@@ -1,0 +1,27 @@
+/* .heading{
+  color:orange;
+  font-weight: bold;
+  text-align: center;
+} */
+body{
+  background-color: aqua;
+  box-sizing: border-box;
+  margin:0;
+  padding: 0;
+}
+
+div{
+  width:100%;
+  height: 100vh;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin-top:-30px;
+}
+
+h1{
+  background: #ffe9c5;
+  padding:20px 20px;
+  color:#fa9191;
+  border-radius: 20px;
+}
